@@ -7,8 +7,9 @@ My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 #### About me:
 
 - :computer: I'm an aspiring Software Engineer, looking to build on my knowledge and learn new tools every day
+- :desktop_computer: I'm currently studying and focused in my journey to becoming expert in Java, PHP, SQL, C#, and .NET
 - :100: I'm passionate about Front-End & Back-End Web Development
-- :desktop_computer: I'm currently building on my Back-End Development skills by studying PHP, C#, and .NET
+- :heart_eyes: I enjoy working with databases and writing queries in SQL
 - :soccer: When I'm not coding, I enjoy playing Chess, watching Soccer, and learning Linux Operating System
 
 #### Programming languages and tools:

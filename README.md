@@ -11,7 +11,7 @@ My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 - :100: I'm passionate about Front-End & Back-End Web Development!
 - :heart_eyes: I enjoy working with databases and writing queries in SQL!
 - :man_technologist: I love using and learning the Linux Operating System. My favorite Linux Distribution is Linux Manjaro!
-- :cloud: I also enjoy learning about Microsoft Azure services. I completed Microsoft Azure Data Fundamentals Certification, and working towards my next Azure certification!
+- :cloud: I have experience wokring with Microsoft Azure, Azure AD, and device management with Microsoft Intune. I completed Microsoft Azure Data Fundamentals Certification, and working towards my next Azure certification!
 - :soccer: And in my personal life, I enjoy playing chess, watching soccer and basketball, exercising, and learning Italian!
 
 #### Programming languages and tools:

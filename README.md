@@ -1,45 +1,36 @@
-### Hi there! :wave:
+# Hi there! :wave:
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
-#### About me:
+## About me:
 
-- :computer: I'm an aspiring Web Developer, looking to build on my knowledge and learn new skills every day!
-- :desktop_computer: I'm currently studying and focused in my journey to becoming expert in JavaScript, PHP, and SQL!
-- :100: I'm passionate about Front-End & Back-End Web Development!
-- :heart_eyes: I enjoy working with databases and writing queries in SQL!
-- :man_technologist: I love using and learning the Linux Operating System. My favorite Linux Distribution is Linux Manjaro!
-- :cloud: I have experience working with Microsoft Azure, Azure AD, and device management with Microsoft Intune. I completed Microsoft Azure Data Fundamentals Certification, and working towards my next Azure certification!
-- :soccer: And in my personal life, I enjoy playing chess, watching soccer and basketball, exercising, and learning Italian!
+- 🚀 Aspiring Cloud Infrastructure Engineer | ☁️ Passionate about Cloud Computing
+- I'm a tech enthusiast with a strong passion for cloud infrastructure engineering. My goal is to design, build, and optimize cloud environments that drive innovation and reliability.
 
-#### Programming languages and tools:
+🌟 **Aspirations:**
+- :computer: Becoming a Cloud Infrastructure Engineer
+- :cloud: Architecting scalable, secure, and efficient cloud solutions
+- 🚀 Continuous learning and staying up-to-date with the latest cloud technologies
+
+## Skills
+
+💻 **Programming Languages:** Java, Python, C#, Go, Node.js <br>
+🐳 **Docker & Kubernetes:** On an exciting journey to become proficient in containerization with Docker and orchestrating applications with Kubernetes. <br>
+🔐 **Identity and Access Management (IAM):** I love working with IAM to ensure that the right people have the right access to resources while maintaining security.<br>
+🌐 **Endpoint Management (Microsoft Intune):** I specialize in managing and securing network endpoints through Microsoft Intune, ensuring a seamless and secure experience. <br>
 
 <div style="display: inline;">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/drupal/drupal-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="40" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100px" height="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="100px" height="100px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="100px" height="100px"/>
           
 </div>
 
+          
+:soccer: And in my personal life, I enjoy playing chess, watching soccer and basketball, exercising, and learning Italian!
 <br>
 
 <div align="left">

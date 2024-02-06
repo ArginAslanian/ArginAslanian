@@ -16,7 +16,7 @@ My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
 ## Skills
 
-💻 **Programming Languages:** Java, Python, C#, Go, Node.js <br>
+💻 **Programming Languages:** Java, Python <br>
 🐳 **Docker & Kubernetes:** On an exciting journey to become proficient in containerization with Docker and orchestrating applications with Kubernetes. <br>
 🔐 **Identity and Access Management (IAM):** I love working with IAM to ensure that the right people have the right access to resources while maintaining security.<br>
 🌐 **Endpoint Management (Microsoft Intune):** I specialize in managing and securing network endpoints through Microsoft Intune, ensuring a seamless and secure experience. <br>
@@ -25,7 +25,6 @@ My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100px" height="100px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="100px" height="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg" width="100px" height="100px"/>
           
 </div>
 

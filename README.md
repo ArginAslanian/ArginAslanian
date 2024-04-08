@@ -4,15 +4,15 @@
 
 My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
-# About me:
+### About me:
 
 - 🚀 Information Technology Specialist | ☁️ Passionate about Cloud Computing
 - I'm a tech enthusiast with a strong passion for the cloud.
 
 🌟 **Aspirations:**
-- :computer: Becoming a Cloud Infrastructure Engineer
+- :computer: Gain new skills and experiences that will help me advance and improve as an Information Technology Specialist
 - :cloud: Architecting scalable, secure, and efficient Cloud Solutions
-- 🚀 Continuous learning and staying up-to-date with the latest cloud technologies
+- 🚀 Continuous learning and staying up-to-date with the latest technologies
 <!--
 ## Skills
 

@@ -4,22 +4,24 @@
 
 My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
-## About me:
+# About me:
 
-- 🚀 Aspiring Cloud Infrastructure Engineer | ☁️ Passionate about Cloud Computing
-- I'm a tech enthusiast with a strong passion for cloud infrastructure engineering. My goal is to design, build, and optimize cloud environments that drive innovation and reliability.
+- 🚀 Information Technology Specialist | ☁️ Passionate about Cloud Computing
+- I'm a tech enthusiast with a strong passion for the cloud.
 
 🌟 **Aspirations:**
 - :computer: Becoming a Cloud Infrastructure Engineer
-- :cloud: Architecting scalable, secure, and efficient cloud solutions
+- :cloud: Architecting scalable, secure, and efficient Cloud Solutions
 - 🚀 Continuous learning and staying up-to-date with the latest cloud technologies
-
+<!--
 ## Skills
 
 💻 **Programming Languages:** Java, Python <br>
 🐳 **Docker & Kubernetes:** On an exciting journey to become proficient in containerization with Docker and orchestrating applications with Kubernetes. <br>
 🔐 **Identity and Access Management (IAM):** I love working with IAM to ensure that the right people have the right access to resources while maintaining security.<br>
 🌐 **Endpoint Management (Microsoft Intune):** I specialize in managing and securing network endpoints through Microsoft Intune, ensuring a seamless and secure experience. <br>
+
+-->
 
 <div style="display: inline;">
 

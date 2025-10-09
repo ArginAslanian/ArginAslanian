@@ -4,40 +4,35 @@
 
 My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
-### About me:
+### 👨‍💻 About me
+I'm an IT Systems & Security Engineer with hands-on experience in **Microsoft 365 Administration and Security.** Skilled in **Entra ID**, **Intune**, **Microsoft Sentinel** and **Microsoft Defender** to protect users, devices, and data across the enterprise. Passionate about streamlining systems, enhancing security, and delivering seamless user experiences. 
+*Microsoft Azure* & *AWS* certified, with a strong foundation in security, support and cloud infrastructure.
 
-- 🚀 Information Technology Specialist | ☁️ Passionate about Cloud Computing
-- I'm a tech enthusiast with a strong passion for the cloud.
+### ☁️ Cloud & Security Expertise
+- **Microsoft 365 Security:** Entra ID, Intune, Sentinel, Defender for Endpoint
+- **Cloud Platforms:** Azure (IAM, VM, Networking, Monitoring), AWS (Solutions Architect – Associate Certified)  
+- **Networking:** Cisco Meraki (Switches, APs, Firewalls), VLANs, DHCP, VPN  
+- **Automation & Scripting:** PowerShell, Python
+- **Endpoint Management:** Microsoft Intune, Device Configuration, Compliance, MDM/MAM Policies, Windows Autopilot  
+- **Monitoring & Analytics:** Microsoft Sentinel, Defender Alerts, Log Analytics
+- **Collaboration Tools:** Exchange Online, SharePoint, Teams, OneDrive  
 
-🌟 **Aspirations:**
-- :computer: Gain new skills and experiences that will help me advance and improve as an Information Technology Specialist
+### 🔍 Current Focus
+- :computer: Gain new skills and experiences that will help me improve as a Cybersecurity Engineer
+- 🛡️ Strengthening cloud security posture with **Microsoft Sentinel and Defender** 
 - :cloud: Architecting scalable, secure, and efficient Cloud Solutions
-- 🚀 Continuous learning and staying up-to-date with the latest technologies
-<!--
-## Skills
-
-💻 **Programming Languages:** Java, Python <br>
-🐳 **Docker & Kubernetes:** On an exciting journey to become proficient in containerization with Docker and orchestrating applications with Kubernetes. <br>
-🔐 **Identity and Access Management (IAM):** I love working with IAM to ensure that the right people have the right access to resources while maintaining security.<br>
-🌐 **Endpoint Management (Microsoft Intune):** I specialize in managing and securing network endpoints through Microsoft Intune, ensuring a seamless and secure experience. <br>
-
--->
-
-<div style="display: inline;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" width="100px" height="100px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"  width="100px" height="100px"/>
-          
-</div>
-
-          
-:soccer: And in my personal life, I enjoy playing chess, watching soccer and basketball, exercising, and learning Italian!
-<br>
+- 🚀 Continuous learning and staying up-to-date with the latest technologies and trends
 
 <div align="left">
 
-<i>Let's Connect:</i><br>
+### ⚙️ Tech Stack
+`Microsoft 365` • `Azure` • `AWS` • `Java` • `Python` • `Powershell`  
+`Intune` • `Entra ID` • `Sentinel` • `Defender` • `Purview` • `Cisco Meraki`
 
-<a href="https://www.linkedin.com/in/arginaslanian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<i>Connect with me on LinkedIn:
+
+</i><a href="https://www.linkedin.com/in/arginaslanian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
+
+> “Security is not a feature — it’s a mindset.”

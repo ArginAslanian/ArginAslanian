@@ -5,7 +5,7 @@
 My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
 ### 👨‍💻 About me
-I'm an IT Systems & Security Engineer with hands-on experience in **Microsoft 365 Administration and Security.** Skilled in **Entra ID**, **Intune**, **Microsoft Sentinel** and **Microsoft Defender** to protect users, devices, and data across the enterprise. Passionate about streamlining systems, enhancing security, and delivering seamless user experiences. 
+I'm an IT Systems & Security Engineer with hands-on experience in **Microsoft 365 Administration and Security.** Skilled in **Entra ID**, **Intune**, **Microsoft Sentinel** and **Microsoft Defender** to protect users, devices, and data across the enterprise. I'm passionate about streamlining systems, enhancing security, and delivering seamless user experiences. <br>
 *Microsoft Azure* & *AWS* certified, with a strong foundation in security, support and cloud infrastructure.
 
 ### ☁️ Cloud & Security Expertise

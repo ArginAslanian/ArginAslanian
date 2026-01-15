@@ -5,23 +5,19 @@
 My name is Argin Aslanian, and welcome to my Github profile! :smiley:
 
 ### 👨‍💻 About me
-I'm an IT Systems Administrator with hands-on experience in **Microsoft 365 Administration and Security.** Skilled in **Entra ID**, **Intune**, **Microsoft Sentinel** and **Microsoft Defender** to protect users, devices, and data across the enterprise. I'm passionate about streamlining systems, enhancing security, and delivering seamless user experiences. <br>
-*Microsoft Azure*, *AWS*, *CompTIA A+ | Network+ | Security+* certified, with a strong foundation in cybersecurity and cloud infrastructure.
+Systems Administrator / Senior IT Support professional with enterprise experience supporting and securing Microsoft 365 
+environments and end users at scale. Experienced in Microsoft Defender and Microsoft Sentinel for alert triage, 
+investigation, and rapid remediation. Hands-on with Cisco Meraki firewalls, switches, and access points to improve 
+reliability, segmentation, and secure connectivity. Known for clear communication, structured troubleshooting, excellent 
+customer service, and owning issues through resolution. <br> <br>
+*Microsoft Azure*, *AWS*, *CompTIA A+ | Network+ | Security+* certified, with a strong foundation in Cybersecurity, Cloud Infrastructure, and Systems Support.
 
-### ☁️ Cloud & Security Expertise
-- **Microsoft 365 Security:** Entra ID, Intune, Sentinel, Defender for Endpoint
-- **Cloud Platforms:** Azure (IAM, VM, Networking, Monitoring), AWS (Solutions Architect – Associate Certified)  
-- **Networking:** Cisco Meraki (Switches, APs, Firewalls), VLANs, DHCP, VPN  
-- **Automation & Scripting:** PowerShell, Python
-- **Endpoint Management:** Microsoft Intune, Device Configuration, Compliance, MDM/MAM Policies, Windows Autopilot  
-- **Monitoring & Analytics:** Microsoft Sentinel, Defender Alerts, Log Analytics
-- **Collaboration Tools:** Exchange Online, SharePoint, Teams, OneDrive  
-
-### 🔍 Current Focus
-- :computer: Gain new skills and experiences that will help me improve as a Cybersecurity Engineer
-- 🛡️ Strengthening cloud security posture with **Microsoft Sentinel and Defender** 
-- :cloud: Architecting scalable, secure, and efficient Cloud Solutions
-- 🚀 Continuous learning and staying up-to-date with the latest technologies and trends
+### ☁️ Key Technical Skills
+- **Identity & Endpoint Management:** Microsoft Entra ID, Microsoft Intune, Conditional Access, MFA, RBAC, SSO 
+- **Microsoft 365 Administration:** Exchange Online, Teams, SharePoint/OneDrive, PowerShell automation   
+- **Security Operations:** Microsoft Defender, Microsoft Sentinel, alert triage, incident response, investigation workflows 
+- **Networking & Security:** Cisco Meraki (firewalls/switches/APs), VLANs, SSIDs, DHCP, firewall policies, segmentation 
+- **Scripting & Automation:** PowerShell, Python, SQL
 
 <div align="left">
 

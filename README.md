@@ -22,7 +22,7 @@ customer service, and owning issues through resolution. <br> <br>
 <div align="left">
 
 ### ⚙️ Tech Stack
-`Microsoft 365` • `Azure` • `AWS` • `Java` • `Python` • `Powershell`  
+`Microsoft 365` • `Azure` • `AWS` • `Java` • `Python` • `Powershell`  • `Linux`  
 `Intune` • `Entra ID` • `Sentinel` • `Defender` • `Purview` • `Cisco Meraki`
 
 <i>Connect with me on LinkedIn:
@@ -30,5 +30,3 @@ customer service, and owning issues through resolution. <br> <br>
 </i><a href="https://www.linkedin.com/in/arginaslanian/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
-
-> “Security is not a feature — it’s a mindset.”

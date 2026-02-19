@@ -12,7 +12,7 @@ Extensive experience with Cisco Meraki (firewalls, switches, access points) to s
 ### ☁️ Key Technical Skills
 - **Identity & Endpoint Management:** Microsoft Entra ID, Microsoft Intune, Conditional Access, MFA, RBAC, SSO 
 - **Microsoft 365 Administration:** Exchange Online, Teams, SharePoint/OneDrive, PowerShell automation   
-- **Security Operations:** Microsoft Defender, Microsoft Sentinel, alert triage, incident response, investigation workflows 
+- **Security:** Microsoft Defender, Sentinel, incident response, threat hunting, vulnerability scanning, Nmap, Wireshark
 - **Networking:** Cisco Meraki (firewalls/switches/APs), VLANs, SSIDs, DHCP, DNS, firewall policies, segmentation
 - **Operating Systems:** Windows 11, Windows Server 2022, Linux Ubuntu, Ubuntu Server, Kali Linux
 - **Scripting & Automation:** PowerShell, Bash, Python, SQL

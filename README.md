@@ -1,13 +1,19 @@
 # Hi, I'm Argin Aslanian 👋
 
-### Cybersecurity, Cloud, and IT Systems Administrator
+### IAM & Cloud Security Engineer/Cybersecurity Analyst
 
 ## About me 🧑‍💻
-As a Security-minded IT Systems Administrator, my goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
+As a Cloud Security Engineer, my goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
 
 ### 🛠️ Core Technical Skills
-- **Microsoft 365 Administration:** `Entra ID`, `Intune`, `Exchange Online`, `Teams`, `SharePoint/OneDrive` 
-- **Cybersecurity:** `Defender`, `Sentinel`, `KQL`, `Incident Response`, `Threat Hunting`, `Vulnerability Scanning`, `Nmap`, `Wireshark`
-- **Networking:** `Cisco Meraki`, `VPN`, `VLANs`, `SSIDs`, `DHCP`, `DNS`, `Firewall Policies`
-- **Operating Systems:** `Windows 11`, `Windows Server 2022`, `Linux Ubuntu`, `Ubuntu Server`, `Kali Linux`
-- **Scripting & Automation:** `PowerShell`, `Bash`, `Python`, `SQL`
+- **IAM & Cloud Security:** `Microsoft Entra ID`, `Conditional Access`, `MFA`, `RBAC`, `SSO`, `Identity Governance`, `Access Reviews`, `PIM`
+  
+- **Microsoft Security Operations:** `Defender XDR`, `Microsoft Sentinel`, `Incident Response`, `Threat Hunting`, `Alert Triage`, `Vulnerability Management`, `KQL`
+  
+- **Endpoint & Device Security:** `Microsoft Intune`, `Compliance Policies`, `Configuration Profiles`, `Endpoint Hardening`, `BitLocker`, `Application Control`, `Autopilot`
+  
+- **Microsoft 365 Security Administration:** `Exchange Online`, `Microsoft Purview`, `SharePoint`, `OneDrive`, `Microsoft Teams`, `Secure Collaboration`, `Data Protection`, `Tenant Administration`
+  
+- **Network & Infrastructure Security:** `Cisco Meraki`, `VPN`, `VLANs`, `SSIDs`, `DNS`, `DHCP`, `Network Segmentation`
+
+- **Operating Systems, Automation & Security Tools:** `Windows 11`, `Windows Server 2022`, `Ubuntu`, `Ubuntu Server`, `Kali Linux`, `PowerShell`, `Bash`, `Python`, `SQL`, `Nmap`, `Wireshark`

@@ -3,7 +3,7 @@
 ### IAM & Cloud Security Engineer/Cybersecurity Analyst
 
 ## About me 🧑‍💻
-As a Cloud Security Engineer, my goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
+As a Cloud Security Engineer, my primary focus is helping organizations strengthen security through identity and access management, Conditional Access, MFA, RBAC, SSO, Identity Governance, secure device management, and cloud-based security operations. My goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
 
 ### 🛠️ Core Technical Skills
 - **IAM & Cloud Security:** `Microsoft Entra ID`, `Conditional Access`, `MFA`, `RBAC`, `SSO`, `Identity Governance`, `Access Reviews`, `PIM`

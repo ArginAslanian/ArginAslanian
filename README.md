@@ -18,6 +18,6 @@ As the Azure & Cloud Security Engineer, my goal is to design, manage, and secure
   
 - **Network & Infrastructure:** `Cisco Meraki`, `VPN`, `VLANs`, `SSIDs`, `DNS`, `DHCP`, `Network Segmentation`
 
-- **Operating Systems, Automation & Tools:** `Windows 11`, `Windows Server 2022`, `Ubuntu`, `Ubuntu Server`, `Kali Linux`, `PowerShell`, `Bash`, `Python`, `SQL`, `Nmap`, `Wireshark`
+- **Systems & Tools:** `Windows 11`, `Windows Server 2022`, `Ubuntu`, `Ubuntu Server`, `Kali Linux`, `PowerShell`, `Bash`, `Python`, `SQL`, `Nmap`, `Wireshark`
 
 - **Virtualization & Compute Platforms:** `VMware ESXi`, `VMware vSphere`, `VMware vCenter`, `SAN/iSCSI Storage`, `High Availability (HA)`, `Patch Management`, `Resource Allocation`

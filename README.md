@@ -20,4 +20,4 @@ As the Azure & Cloud Security Engineer, my goal is to design, manage, and secure
 
 - **Systems & Tools:** `Windows 11`, `Windows Server 2022`, `Ubuntu`, `Ubuntu Server`, `Kali Linux`, `PowerShell`, `Bash`, `Python`, `SQL`, `Nmap`, `Wireshark`
 
-- **Virtualization & Compute Platforms:** `VMware ESXi`, `VMware vSphere`, `VMware vCenter`, `SAN/iSCSI Storage`, `High Availability (HA)`, `Patch Management`, `Resource Allocation`
+- **Virtualization & Compute Platforms:** `VMware ESXi`, `vSphere`, `vCenter`, `SAN/iSCSI Storage`, `High Availability (HA)`, `Patch Management`, `Resource Allocation`

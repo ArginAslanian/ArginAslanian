@@ -1,23 +1,6 @@
 # Hi, I'm Argin Aslanian 👋
 
-### Cloud Security Engineer - Cybersecurity Analyst - SysAdmin - Azure Engineer
+#### Cyber Security & Information Systems Analyst | Microsoft Azure Engineer | Cloud Security | Security Operations (SecOps) | Azure DevOps
 
 ## About me 🧑‍💻
-As the Azure & Cloud Security Engineer, my goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
-
-### 🛠️ Core Technical Skills
-- **IAM & Cloud Security:** `Microsoft Entra ID`, `Conditional Access`, `MFA`, `RBAC`, `SSO`, `Identity Governance`, `Access Reviews`, `PIM`
-  
-- **Microsoft Security Operations:** `Defender XDR`, `Microsoft Sentinel`, `Incident Response`, `Threat Hunting`, `Alert Triage`, `Vulnerability Management`, `KQL`
-  
-- **Endpoint & Device Security:** `Microsoft Intune`, `Compliance Policies`, `Configuration Profiles`, `Endpoint Hardening`, `BitLocker`, `Application Control`, `Autopilot`
-  
-- **Microsoft 365 Administration:** `Exchange Online`, `Microsoft Purview`, `SharePoint`, `OneDrive`, `Microsoft Teams`, `Secure Collaboration`, `Data Protection`, `Tenant Administration`
-
-- **Azure Infrastructure Administration:** `Azure Virtual Machines`, `Azure Storage Accounts`, `Virtual Networks`, `Azure Monitor`, `App Services`, `Load Balancing`, `Azure Logic Apps`, `Azure DevOps`
-  
-- **Network & Infrastructure:** `Cisco Meraki`, `VPN`, `VLANs`, `SSIDs`, `DNS`, `DHCP`, `Network Segmentation`
-
-- **Systems & Tools:** `Windows 11`, `Windows Server 2022`, `Ubuntu`, `Ubuntu Server`, `Kali Linux`, `PowerShell`, `Bash`, `Python`, `SQL`, `Nmap`, `Wireshark`
-
-- **Virtualization & Compute Platforms:** `VMware ESXi`, `vSphere`, `vCenter`, `SAN/iSCSI Storage`, `High Availability (HA)`, `Patch Management`, `Resource Allocation`
+Cyber Security and Information Systems Analyst with a strong foundation in Azure Infrastructure, SecOps, and Identity & Access Management (IAM). I bring solid enterprise experience in supporting Microsoft 365, endpoint management, and secure technology operations. I specialize in bridging the gap between infrastructure and security, leveraging tools like Terraform, Python, and Azure DevOps to build secure CI/CD pipelines and automate cloud environments. My goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.

@@ -1,6 +1,4 @@
 # Hi, I'm Argin Aslanian 👋
 
-#### Cyber Security & Information Systems Analyst | Microsoft Azure Engineer | Cloud Security | Security Operations (SecOps) | Azure DevOps
-
 ## About me 🧑‍💻
-Cyber Security and Information Systems Analyst with a strong foundation in Azure Infrastructure, SecOps, and Identity & Access Management (IAM). I bring solid enterprise experience in supporting Microsoft 365, endpoint management, and secure technology operations. I specialize in bridging the gap between infrastructure and security, leveraging tools like Terraform, Python, and Azure DevOps to build secure CI/CD pipelines and automate cloud environments. My goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
+I am an Information Systems Engineer with a track record of supporting and optimizing enterprise infrastructure and day-to-day technology operations. I thrive in bridging the gap between core systems administration and modern cloud practices. Alongside my expertise in Microsoft 365, technical support, and systems administration, I bring hands-on experience with Azure, SecOps, and Identity & Access Management (IAM). I actively integrate cyber security principles and cloud security best practices to harden systems without disrupting the end-user experience. My ultimate goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.

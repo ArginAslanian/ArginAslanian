@@ -1,4 +1,10 @@
-# Hi, I'm Argin Aslanian 👋
+### Hello there 👋
 
-## About me 🧑‍💻
-I am an Information Systems Engineer with a track record of supporting and optimizing enterprise infrastructure and day-to-day technology operations. I thrive in bridging the gap between core systems administration and modern cloud practices. Alongside my expertise in Microsoft 365, technical support, and systems administration, I bring hands-on experience with Azure, SecOps, and Identity & Access Management (IAM). I actively integrate cyber security principles and cloud security best practices to harden systems without disrupting the end-user experience. My ultimate goal is to design, manage, and secure trustworthy technology environments where systems are stable, data is protected, and security is built into everyday operations.
+#### Information Systems Engineer | IT Operations | Microsoft 365 & Azure | Cloud Security | SecOps & IAM
+
+* 💼 **Role:** Information Systems Engineer optimizing enterprise infrastructure and operations.
+* ☁️ **Focus:** Bridging the gap between core systems administration and modern cloud environments.
+* ⚙️ **Expertise:** Microsoft 365, Technical Support, and Systems Administration.
+* ⚡ **Hands-on With:** Azure, SecOps, Automation (CI/CD), and Identity & Access Management (IAM).
+* 🔒 **Approach:** Hardening systems with cybersecurity best practices while keeping the end-user experience seamless.
+* 🎯 **Goal:** Building and managing trustworthy, stable, and secure technology environments.

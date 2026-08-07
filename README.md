@@ -1,10 +1,30 @@
-### Hello there 👋
+# Hello there 👋 Welcome to my GitHub!
 
-#### Information Systems Engineer | IT Operations | Microsoft 365 & Azure | Cloud Security | SecOps & IAM
+```console
+argin@github:~$ whoami
+Azure Engineer | Microsoft 365 | Cybersecurity & IAM | Systems Administrator
 
-* 💼 **Role:** Information Systems Engineer optimizing enterprise infrastructure and operations.
-* ☁️ **Focus:** Bridging the gap between core systems administration and modern cloud environments.
-* ⚙️ **Expertise:** Microsoft 365, Technical Support, and Systems Administration.
-* ⚡ **Hands-on With:** Azure, SecOps, Automation (CI/CD), and Identity & Access Management (IAM).
-* 🔒 **Approach:** Hardening systems with cybersecurity best practices while keeping the end-user experience seamless.
-* 🎯 **Goal:** Building and managing trustworthy, stable, and secure technology environments.
+argin@github:~$ cat about.txt
+Building secure, reliable, and automated cloud environments.
+
+argin@github:~$ ls skills/
+Azure/          Entra-ID/       Microsoft-365/
+Defender-XDR/   Sentinel/       PowerShell/
+Linux/          Networking/     Automation/
+Meraki/         Intune/         Exchange/
+
+argin@github:~$ cat strengths.conf
+Reliable | Accountable | Adaptable | Approachable | Quick to Learn
+
+argin@github:~$ echo $CURRENT_FOCUS
+IAM Security + Azure Cloud Security + Cloud Automation & AI
+
+argin@github:~$ tail -f learning.log
+Continuously learning, building, and strengthening my technical skills...
+
+argin@github:~$ cat mission.txt
+Secure identities. Protect the cloud. Automate with purpose.
+
+argin@github:~$ echo "Thanks for visiting 👋"
+Thanks for visiting 👋
+```

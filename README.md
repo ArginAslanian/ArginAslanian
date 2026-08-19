@@ -2,10 +2,10 @@
 
 ```console
 argin@github:~$ whoami
-Azure Engineer | Microsoft 365 | Cybersecurity & IAM | Systems Administrator
+Microsoft 365 Engineer | Cybersecurity & IAM | Azure
 
 argin@github:~$ cat about.txt
-Building secure, reliable, and automated cloud environments.
+Building secure and automated Microsoft 365 environments with a focus on identity, endpoint management, and cloud security.
 
 argin@github:~$ ls skills/
 Azure/          Entra-ID/       Microsoft-365/

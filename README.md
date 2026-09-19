@@ -2,25 +2,26 @@
 
 ```console
 argin@github:~$ whoami
-Microsoft 365 Engineer | Cybersecurity & IAM | Azure
+IAM Engineer
 
 argin@github:~$ cat about.txt
-Building secure and automated Microsoft 365 environments with a focus on identity, endpoint management, and cloud security.
+Architecting secure Identity and Access Management solutions with a focus on zero trust, automated lifecycle management, and strict access governance.
 
 argin@github:~$ ls skills/
-Azure/          Entra-ID/       Microsoft-365/
-Defender-XDR/   Sentinel/       PowerShell/
-Linux/          Networking/     Automation/
-Meraki/         Intune/         Exchange/
+Entra-ID/           Active-Directory/  Privileged-Identity-Management/
+Conditional-Access/ SSO-SAML-OIDC/     Role-Based-Access-Control/
+Zero-Trust/         PowerShell/        Identity-Automation/
+Azure-Security/     Sentinel/          Terraform/
+Microsoft-365/      Intune/            Exchange/
 
 argin@github:~$ cat strengths.conf
-Reliable | Accountable | Adaptable | Approachable | Quick to Learn
+Security-First | Detail-Oriented | Adaptable | Accountable | Continuous Learner
 
 argin@github:~$ echo $CURRENT_FOCUS
-IAM Security + Azure Cloud Security + Cloud Automation & AI
+Identity Lifecycle Automation + Zero Trust Architecture + AI Security Governance
 
 argin@github:~$ tail -f learning.log
-Continuously learning, building, and strengthening my technical skills...
+Continuously building identity threat detection playbooks, enforcing least privilege, and automating IAM workflows...
 
 argin@github:~$ cat mission.txt
 Secure identities. Protect the cloud. Automate with purpose.
